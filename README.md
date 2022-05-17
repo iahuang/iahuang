@@ -1,6 +1,6 @@
 ### Hi, my name is Ian Huang 👋
 
-I'm a first-year computer science student at the University of Toronto. My hobbies mostly include front-end web development, but I am also interested in artificial intelligence and machine learning, as well as systems programming.
+I'm a second-year computer science student at the University of Toronto. My hobbies mostly include front-end web development, but I am also interested in artificial intelligence and machine learning, as well as systems programming.
 
 - Languages: Python, Javascript/Typescript, Java/C#, C/C++
 - Skills: ReactJS, ExpressJS, Tensorflow/Keras, OpenCV, Numpy
