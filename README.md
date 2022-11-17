@@ -7,7 +7,7 @@ I'm a second-year computer science student at the University of Toronto.
 
 ## Featured Projects
 
-## [NeX](https://github.com/nex-project/nex)
+### [NeX](https://github.com/nex-project/nex)
 *A lightweight-syntax markup language designed for note taking*
 
 **Features:**
@@ -20,7 +20,7 @@ I'm a second-year computer science student at the University of Toronto.
 - Node/Typescript
 - ExpressJS
 
-## [CoVariant](https://github.com/iahuang/covariant)
+### [CoVariant](https://github.com/iahuang/covariant)
 *A machine learning project investigating risk factors for regional COVID-19 severity*
 
 Originally written as a project for CSC110 at the University of Toronto. 
