@@ -1,9 +1,11 @@
-### Hi, my name is Ian Huang 👋
+## Hi, my name is Ian Huang 👋
 
 I'm a second-year computer science student at the University of Toronto.
 
-- Languages: Python, Javascript/Typescript, Java/C#, C/C++
-- Skills: ReactJS, ExpressJS, Tensorflow/Keras, OpenCV, Numpy
+### About
+- **Languages:** Python, Javascript/Typescript, Java/C#, C/C++
+- **LinkedIn:** https://www.linkedin.com/in/ian-a-huang/
+- **Contact:** ia.huang@mail.utoronto.ca
 
 ## Featured Projects
 
