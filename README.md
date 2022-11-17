@@ -16,7 +16,7 @@ I'm a second-year computer science student at the University of Toronto.
 - Familiar syntax similar to Markdown
 - Full math and equation support utilizing LaTeX rendering
 - In-browser live reload
-- 
+
 **Utilizes:**
 - Node/Typescript
 - ExpressJS
@@ -29,7 +29,7 @@ Originally written as a project for CSC110 at the University of Toronto.
 **Features:**
 - Able to accurately predict COVID-19 case and death curves from limited geographic and demographic information about a region of the United States
 - Supports GPU-accelerated model training and prediction
-- 
+
 **Utilizes:**
 - Python
 - Tensorflow/Keras
