@@ -1,6 +1,6 @@
 ## Hi, my name is Ian Huang 👋
 
-I'm a second-year computer science student at the University of Toronto.
+I'm a second-year computer science student at the University of Toronto. Check out my homepage [**here**](https://ianhuang.dev/).
 
 ### About
 - **Languages:** Python, Javascript/Typescript, Java/C#, C/C++
