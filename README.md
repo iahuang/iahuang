@@ -1,6 +1,6 @@
 ## Hi, my name is Ian Huang 👋
 
-I'm a second-year computer science student at the University of Toronto.
+I'm a third-year computer science student at the University of Toronto and software engineer at [Kortex](https://kortex.co).
 
 ### About
 - **Languages:** Python, Javascript/Typescript, Java/C#, C/C++
@@ -23,6 +23,18 @@ I'm a second-year computer science student at the University of Toronto.
 **Utilizes:**
 - Node/Typescript
 - ExpressJS
+
+### [Juno](https://github.com/iahuang/juno)
+
+*A visual runtime simulator and partial implementation of the MIPS Assembly Language written in Rust*
+
+**Features:**
+- Includes a view of the currently running part of the `.text` section along with disassembled instructions.
+- Includes a view of the current registers.
+- Written as a visual command-line utility.
+
+**Utilizes:**
+- Rust
 
 ### [CoVariant](https://github.com/iahuang/covariant)
 *A machine learning project investigating risk factors for regional COVID-19 severity*
