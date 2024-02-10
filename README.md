@@ -1,6 +1,6 @@
 ## Hi, my name is Ian Huang 👋
 
-University of Toronto computer science / Software engineer at [Kortex](https://kortex.co).
+I'm a computer science student at the University of Toronto and a software engineer at [Kortex](https://kortex.co).
 
 ### About
 - **Languages:** Python, Javascript/Typescript, Java, C#, C/C++, Rust
