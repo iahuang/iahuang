@@ -3,7 +3,7 @@
 I'm a third-year computer science student at the University of Toronto and software engineer at [Kortex](https://kortex.co).
 
 ### About
-- **Languages:** Python, Javascript/Typescript, Java/C#, C/C++
+- **Languages:** Python, Javascript/Typescript, Java, C#, C/C++, Rust
 - **Homepage:** https://ianhuang.dev/
 - **LinkedIn:** https://www.linkedin.com/in/ian-a-huang/
 - **Contact:** ia.huang@mail.utoronto.ca
