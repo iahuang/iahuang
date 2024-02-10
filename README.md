@@ -35,6 +35,7 @@ I'm a third-year computer science student at the University of Toronto and softw
 
 **Utilizes:**
 - Rust
+- `tui-rs`
 
 ### [CoVariant](https://github.com/iahuang/covariant)
 *A machine learning project investigating risk factors for regional COVID-19 severity*
